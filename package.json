@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "groq-sdk": "^1.2.1",
+    "langfuse": "^3.38.20"
+  }
+}
